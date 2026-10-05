@@ -1,32 +1,28 @@
-# DSA Python Practice 
+# DSA Python Practice
 This repository contains my practice problems for **Data Structures and Algorithms (DSA)** using Python.
-
-##  Topics Covered
-
-###  Searching
-
+## Topics Covered
+### Searching
 * Find the first occurrence of a number
 * Count how many times a number occurs
-
-###  Arrays
-
+### Arrays
 * Find the smallest element
 * Reverse an array
 * Find the second largest number
-
-###  Sorting
-
+### Sorting
 * Bubble Sort — Ascending
 * Bubble Sort — Descending
-
-##  Complexity
-
+### Strings
+* Reverse a String
+* Count Vowels
+* Character Frequency
+* Check Palindrome
+* Remove Spaces
+* Find First Non-Repeating Character
+* Check Anagram
+* Count Words
+## Complexity
 Each problem includes its **Time Complexity** and **Space Complexity**.
-
-##  Purpose
-
+## Purpose
 This repository is part of my ongoing practice to improve my **Python problem-solving and DSA skills** and prepare for software development internships.
-
-##  Language
-
+## Language
 * Python
